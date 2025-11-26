@@ -5,7 +5,6 @@
 [![ESP-IDF Version](https://img.shields.io/badge/ESP--IDF-v5.0+-blue.svg)](https://github.com/espressif/esp-idf)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-Turn your ESP32 into a complete Bluetooth audio device with music streaming and phone call capabilities.
 
 ## Features
 
