@@ -42,8 +42,8 @@
 <table>
 <tr>
 <td><img src="./img/bavaria_digitalII.jpg" width="200" alt="BMW Bavaria Digital II"/><br/><b>BMW Bavaria Digital II</b></td>
-<td><img src="./img/bavaria_digitalII-2.jpg" width="200" alt="PCM5102 DAC"/><br/><b>PCM5102 DAC</b></td>
-<td><img src="./img/esp32_breadboard.jpg" width="200" alt="ESP32 Setup"/><br/><b>Complete Setup</b></td>
+<td><img src="./img/bavaria_digitalII-2.jpg" width="200" alt="PCM5102 DAC"/><br/><b>BMW Bavaria Digital II back</b></td>
+<td><img src="./img/esp32_breadboard.jpg" width="200" alt="ESP32 Setup"/><br/><b>Breadboard Setup</b></td>
 </tr>
 </table>
 
