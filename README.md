@@ -52,6 +52,7 @@
 I wrote 2 Esp Idf components; 
 - [a2dpSinkHfpClient](https://github.com/walinsky/a2dpSinkHfpClient)
 - [SI4684](https://github.com/walinsky/SI4684)
+
 a2dpSinkHfpClient for handling all bt audio (streaming and phone calls), and SI4684 for controlling the DAB/FM receiver.
 
 car_stereo itself is mainly a state machine, handling the events from a2dpSinkHfpClient, SI4684 and of course the buttons
